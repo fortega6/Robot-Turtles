@@ -1,0 +1,4 @@
+Sara 4
+David 3
+Ana 2
+Juan 1
